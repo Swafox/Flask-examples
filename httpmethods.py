@@ -1,6 +1,6 @@
 from flask import request
 
-def do_the do_the_login():
+def do_the_login():
 	return 'This was a POST request'
 
 def show_the_login_form():
